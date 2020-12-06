@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="admin_add.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131558242840412639" remote="131558242200000000" Dst="0" />
+<file name="admin_list.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557445218359608" remote="131557914000000000" Dst="0" />
+<file name="admin_update.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557445349656180" remote="131557914000000000" Dst="0" />
+<file name="classroom_add.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557447871323967" remote="131557914000000000" Dst="0" />
+<file name="classroom_list.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557448143725831" remote="131557914000000000" Dst="0" />
+<file name="classroom_update.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557448272363301" remote="131557914000000000" Dst="0" />
+<file name="class_add.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557447062563942" remote="131557914000000000" Dst="0" />
+<file name="class_list.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557447222177922" remote="131557914000000000" Dst="0" />
+<file name="class_listforSN.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557447383731904" remote="131557914000000000" Dst="0" />
+<file name="class_listforTN.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557447491657397" remote="131557914000000000" Dst="0" />
+<file name="class_update.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557447603796957" remote="131557914000000000" Dst="0" />
+<file name="class_updateforTN.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557447737352114" remote="131557914000000000" Dst="0" />
+<file name="departments_add.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557448431316611" remote="131557914000000000" Dst="0" />
+<file name="departments_list.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557448663307150" remote="131557914000000000" Dst="0" />
+<file name="departments_update.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557448765034415" remote="131557914000000000" Dst="0" />
+<file name="grade_list.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557449755400605" remote="131557914000000000" Dst="0" />
+<file name="grade_add.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557448923613941" remote="131557914000000000" Dst="0" />
+<file name="grade_addforAD.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557449181701353" remote="131557914000000000" Dst="0" />
+<file name="index.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557443206967480" remote="131557914000000000" Dst="0" />
+<file name="login.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557042360000000" remote="131557914000000000" Dst="0" />
+<file name="grade_update.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557449988188889" remote="131557914000000000" Dst="0" />
+<file name="majors_update.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557450547955233" remote="131557914000000000" Dst="0" />
+<file name="majors_add.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557450191928362" remote="131557914000000000" Dst="0" />
+<file name="majors_list.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557450410138580" remote="131557914000000000" Dst="0" />
+<file name="news_add.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131543516080000000" remote="131557914000000000" Dst="0" />
+<file name="news_list.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557060560000000" remote="131557914000000000" Dst="0" />
+<file name="news_update.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131542576200000000" remote="131557914000000000" Dst="0" />
+<file name="power_add.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557450729093186" remote="131557914000000000" Dst="0" />
+<file name="power_list.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557450956744582" remote="131557914000000000" Dst="0" />
+<file name="power_update.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557451069060399" remote="131557914000000000" Dst="0" />
+<file name="student_add.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557451194649365" remote="131557914000000000" Dst="0" />
+<file name="student_list.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557451424049361" remote="131557914000000000" Dst="0" />
+<file name="student_update.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557451546758734" remote="131557914000000000" Dst="0" />
+<file name="teacher_list.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557451840395692" remote="131557914000000000" Dst="0" />
+<file name="teacher_update.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557451952583873" remote="131557914000000000" Dst="0" />
+<file name="teacher_add.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557451688095379" remote="131557914000000000" Dst="0" />
+<file name="user_add.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557452064660585" remote="131557914000000000" Dst="0" />
+<file name="user_list.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557452216619389" remote="131557914000000000" Dst="0" />
+<file name="user_update.html" server="xiaonan.w190-e0.ezcname.com//xiaonan/wwwroot/" local="131557452298378095" remote="131557914000000000" Dst="0" />
+</dwsync>
